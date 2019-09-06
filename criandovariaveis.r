@@ -23,3 +23,6 @@ rm(list = ls())
 
 #character(0)
 ls()
+
+#Para limpar o console
+shell('cls')
